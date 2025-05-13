@@ -83,8 +83,12 @@ WHERE P.Lead_Time_Days = (
 
 ### Insights
 
+The dashboard consists of a snapshot of critical metrics including stock status and total revenue  
 
-The dashboard consists of a snapshot of critical metrics including stock status and total revenue
+ ![Supply chain insight](https://github.com/user-attachments/assets/f073eaac-6376-44bd-9471-91bc59365fd3)
+
+
+
 The analysis results are summarized as follows:
 1. Top 5 products requiring immediate reordering identified.Balanced inventory levels reduce carrying costs while ensuring availability.
 2. Trends over time,revealing a consistent inventory supply. There was a spike in the first week of January which could indicate a temporary spike in ordering to meet a specific peak demand.
