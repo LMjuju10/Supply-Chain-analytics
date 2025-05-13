@@ -16,9 +16,9 @@ The organization faces several challenges in its supply chain operations, includ
 This project analyzes stock levels, supplier performance, and revenue trends to support inventory optimization. It focuses on improving stock management, selecting reliable suppliers, and tracking revenue to enable informed, data-driven decisions
 
 ### Data Sources
-Orders.csv  
-Products.csv  
-Suppliers.csv  
+[Orders.csv](https://github.com/LMjuju10/Supply-Chain-analytics/blob/main/Orders.csv)    
+[Products.csv](https://github.com/LMjuju10/Supply-Chain-analytics/blob/main/Products.csv)   
+[Suppliers.csv]( https://github.com/LMjuju10/Supply-Chain-analytics/blob/main/Suppliers.csv)     
 
 ### Tools 
 - Excel
